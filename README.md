@@ -18,20 +18,21 @@ I enjoy working across modern frontend tooling, subscription widgets, and solvin
 ---
 
 ### 🛠️ Technologies
+
 **Frontend**
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=react" width="40"/>
+<img src="https://skillicons.dev/icons?i=js" width="40"/>
+<img src="https://skillicons.dev/icons?i=css" width="40"/>
+<img src="https://skillicons.dev/icons?i=html" width="40"/>
 </p>
 
 **Backend & Tools**
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=python" width="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+<img src="https://skillicons.dev/icons?i=git" width="40"/>
+<img src="https://skillicons.dev/icons?i=aws" width="40"/>
 </p>
 
 ---
@@ -66,4 +67,3 @@ I enjoy working across modern frontend tooling, subscription widgets, and solvin
 
 ### 🧠 Philosophy
 > Ship thoughtfully. Optimize intentionally. Keep improving.
-
