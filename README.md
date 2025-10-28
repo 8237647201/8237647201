@@ -1,97 +1,69 @@
-<h1 align="center">Hi, I'm Ankit Mishra 👋</h1>
-<h3 align="center">Software Engineer | Frontend Developer | Problem Solver</h3>
+<!-- Dark Minimalist Profile -->
+
+<h1 align="center">Ankit Mishra</h1>
+<h3 align="center">Software Engineer • Frontend Developer</h3>
+
+<br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=8237647201&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=8237647201&label=Profile%20Views&color=grey&style=flat" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-I'm a Software Engineer with a strong focus on building scalable, user-centric web experiences.  
-My work revolves around modern frontend engineering, technical problem-solving, and crafting clean, maintainable code.  
-
-I enjoy:
-- Building intuitive UI/UX experiences
-- Problem-solving through data-driven approaches
-- Designing subscription & billing experiences (Shopify ecosystem)
-- Collaborating on production-grade features
-
-📧 **Reach:** `ankitmishra823764@gmail.com`
+### 🧑‍💻 About Me
+Focused on building scalable, intuitive, and performant product experiences.  
+I enjoy working across modern frontend tooling, subscription widgets, and solving UI state complexity.
 
 ---
 
-### 🔥 Core Focus Areas
-- Frontend Engineering (React ecosystem)
-- Subscription widgets & e-commerce flows
-- UI state management & APIs
-- Performance & accessibility-driven development
-
----
-
-### 🛠️ Tech Stack
-
+### 🛠️ Technologies
 **Frontend**
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 </p>
 
-**Backend & Cloud**
+**Backend & Tools**
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> 
-</p>
-
-**Machine Learning / Data**
-<p>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
 
 ---
 
-### 🧩 What I'm Currently Working On
-- Building subscription experiences on Shopify
-- Feature customization using React + Polaris
-- Frontend optimization & conditional rendering logic
-- Enhanced billing cycle logic & perks visualization
-
----
-
-### 📈 GitHub Analytics
+### 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8237647201&show_icons=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=8237647201&show_icons=true&theme=dark&hide_border=true&rank_icon=github" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8237647201&theme=dark&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8237647201" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=8237647201&show_icons=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8237647201&layout=compact&theme=dark&hide_border=true" width="41%"/>
 </p>
 
 ---
 
-### 🌍 Connect With Me
+### 🌍 Connect
 <p>
-<a href="https://twitter.com/ankitmishra21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
-<a href="https://www.linkedin.com/in/ankit-mishra-0a5842245" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-<a href="https://www.instagram.com/ankitmishra_.21/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
-<a href="https://leetcode.com/ankitmishra_21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
+<a href="https://www.linkedin.com/in/ankit-mishra-0a5842245" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="https://twitter.com/ankitmishra21" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
+</a>
+<a href="https://leetcode.com/ankitmishra_21" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" width="40"/>
+</a>
 </p>
 
 ---
 
-### ⚡ Philosophy
-> Code should be clean, scalable, and built to improve lives — not complexity.
+### 🧠 Philosophy
+> Ship thoughtfully. Optimize intentionally. Keep improving.
 
----
